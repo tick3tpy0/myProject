@@ -1,1 +1,1 @@
-"연습 push한 후 pull하기" 
+"After Excercise push and then pull" 
