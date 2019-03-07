@@ -1,3 +1,6 @@
+/*
+ * 연결 요소의 개수
+ */
 package bruteforce;
 
 import java.util.Scanner;
