@@ -1,0 +1,22 @@
+{
+
+                "ko_KR": [
+                    {
+                        "attributeName": "column1",
+                        "attributeDisplayName": "1",
+                        "attributeDisplayComment": "컬럼코멘트1"
+                    },
+                    {
+                        "attributeName": "column2",
+                        "attributeDisplayName": "컬럼명2",
+                        "attributeDisplayComment": "컬럼코멘트2"
+                    }
+                ],
+                "en_US": [
+                    {
+                        "attributeName": "column1",
+                        "attributeDisplayName": "column11",
+                        "attributeDisplayComment": "column comment1"
+                    }
+			]
+}
