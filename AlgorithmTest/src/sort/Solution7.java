@@ -1,7 +1,7 @@
 /*
  *  수 정렬 - 퀵 소트
  */
-package bruteforce;
+package sort;
 
 import java.util.Scanner;
 

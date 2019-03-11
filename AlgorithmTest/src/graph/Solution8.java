@@ -1,7 +1,7 @@
 /*
  * 연결 요소의 개수
  */
-package bruteforce;
+package graph;
 
 import java.util.Scanner;
 
