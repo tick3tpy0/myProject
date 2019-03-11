@@ -6,7 +6,7 @@ package bruteforce;
 import java.util.Scanner;
 
 public class Solution8 {
-    static int N, M;
+    static int N, M; // 노드, 간선
     static int[][] map = new int[100][100];
     static boolean[] visited = new boolean[100];
 

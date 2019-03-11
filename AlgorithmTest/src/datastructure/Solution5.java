@@ -1,7 +1,7 @@
 /*
  *  스택 구현
  */
-package bruteforce;
+package datastructure;
 
 public class Solution5 {
     static int top;
